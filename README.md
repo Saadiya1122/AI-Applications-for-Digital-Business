@@ -8,7 +8,7 @@ In today's competitive job market organizations receive a large amount of resume
 * Extracting relevant information from resumes
 * Comparing resumes with given job descriptions
 * Ranking and sorting resumes based on similarity scores
-* 
+  
 # Features
 
 * Automated Resume Screening: Quickly and accurately screen resumes using AI and NLP algorithms.
@@ -27,17 +27,10 @@ streamlit run app.py
 
 # Usage
 
-Start the resumeparserai environment
-Install dependencies
-
-Run the server
-```bash
-streamlit run app.py
-
-- Upload Resumes and Job Descriptions:
-- Access the web application interface and upload resumes in PDF format.
-- Enter job descriptions to compare resumes against.
-- Review Results:- 
+* Upload Resumes and Job Descriptions:
+* Access the web application interface and upload resumes in PDF format.
+* Enter job descriptions to compare resumes against.
+* Click Rank Resumes
 * View ranked resumes and their similarity scores.
 * Make informed decisions in the hiring process.
 
