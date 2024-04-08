@@ -1,4 +1,4 @@
-Resume Parser AI
+# Resume Parser AI
 
 Resume Parser AI is an automated system designed to simplify the recruitment process by automatically parsing and analyzing resumes using Artificial Intelligence (AI) and Natural Language Processing (NLP) techniques.
 Overview
@@ -8,7 +8,8 @@ In today's competitive job market organizations receive a large amount of resume
 * Extracting relevant information from resumes
 * Comparing resumes with given job descriptions
 * Ranking and sorting resumes based on similarity scores
-Features
+
+# Features
 
 * Automated Resume Screening: Quickly and accurately screen resumes using AI and NLP algorithms.
 * Job Description Matching: Compare resumes with job descriptions to identify the most suitable candidates.
@@ -16,14 +17,14 @@ Features
 * Web Application Interface: User-friendly web interface for recruiters to upload resumes and job descriptions.
 Installation
 
-To use Resume Parser AI, follow these steps:
+# To use Resume Parser AI, follow these steps:
 1. Clone the repository:
 https://github.com/Saadiya1122/AI-Applications-for-Digital-Business
 Start the resumeparserai environment Install dependencies
 Run the server
 streamlit run app.py
 
-Usage
+# Usage
 
 1. Upload Resumes and Job Descriptions:
 * Access the web application interface and upload resumes in PDF format.
